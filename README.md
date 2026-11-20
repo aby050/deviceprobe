@@ -87,4 +87,4 @@ Issues and pull requests are welcome, especially device-specific fixes. If a che
 
 ## License
 
-[PolyForm Noncommercial 1.0.0](LICENSE). It's free for personal use, learning and non-commercial use. For commercial use, such as in a repair shop's paid service or in another product, contact work@rvastudio.in.
+[MIT](LICENSE). Use, modify and ship it freely, including commercially.
