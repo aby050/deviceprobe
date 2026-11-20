@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android devices with USB debugging on (ADB interface) -->
+    <usb-device class="255" subclass="66" protocol="1" />
+    <!-- Apple devices (iPhone / iPad) -->
+    <usb-device vendor-id="1452" />
+</resources>
